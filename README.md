@@ -1,2 +1,2 @@
-# Get Across and Stack Item
+# Get Across and Stack the Item
  
